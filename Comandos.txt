@@ -1,0 +1,1 @@
+Git Log é um comando que lista os commits realizados
